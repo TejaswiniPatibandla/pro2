@@ -1,6 +1,7 @@
 class G extends A
 {
 int x;
+System.out.println("done");
 }
 class A extends Box
 {
