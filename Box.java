@@ -1,3 +1,7 @@
+class G extends A
+{
+int x;
+}
 class A extends Box
 {
 int a;
