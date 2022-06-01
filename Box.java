@@ -12,5 +12,6 @@ class Box {
     A ab=new A;
     A.show();
     System.out.println("value of class A variable is"+a);
+    System.out.println("completed");
   }
 }
